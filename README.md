@@ -19,3 +19,10 @@ You should be able to get accuracy of up to 98% with a few hours of training.
 5 - Run test_fcn32.py
 
 6 - The image with segmentation will be outputted 
+
+
+# Toolsets:
+
+- convertimage.py - allows for generating image patches based on the class from an XML file
+- filtertest_on_vgg16.py - allows for setting softmax probability filter
+
